@@ -9,7 +9,7 @@
   <img align="left" alt="tawfiq's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/tawfiq.officiel?r=nametag">
-  <img align="left" alt="tawfiq's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+  <img align="left" alt="tawfiq's Instagram" width="22px" src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=TAWFIQ03.TAWFIQ03)
