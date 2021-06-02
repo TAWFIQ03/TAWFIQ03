@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, I'm **TAWFIQ AHARMIM**, a passionate self-taught Full Stack web developer and a freelance software engineer from **MOROCCO**. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm **TAWFIQ AHARMIM**, a passionate self-taught Full Stack web developer and a freelance software  from **MOROCCO**. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, , and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -43,9 +43,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JSX          16 hrs 2 mins   ██████████████████████░░░   88.08 % 
-JavaScript   1 hr 53 mins    █████████░░░░░░░░░░░░░░░░   30.41 % 
-JSON         15 mins         ██████████░░░░░░░░░░░░░░░   40.46 % 
+JSX          16 hrs 02 mins   ██████████████████████░░░   88.08 % 
+JavaScript   3 hr 53 mins    █████████░░░░░░░░░░░░░░░░   30.41 % 
+JSON         1 hr 05 mins         ████████████░░░░░░░░░░░░░   40.46 % 
 ```
 <!--END_SECTION:waka-->
 
