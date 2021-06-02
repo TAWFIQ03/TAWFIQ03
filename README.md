@@ -44,8 +44,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 ```text
 JSX          16 hrs 2 mins   ██████████████████████░░░   88.08 % 
-JavaScript   1 hr 53 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+JavaScript   1 hr 53 mins    █████████░░░░░░░░░░░░░░░░   30.41 % 
+JSON         15 mins         ██████████░░░░░░░░░░░░░░░   40.46 % 
 ```
 <!--END_SECTION:waka-->
 
@@ -55,10 +55,10 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  7,837 Karma Points           
+🏆   37 Karma Points           
 🌸  Completed 0 tasks today           
-✅  Completed 642 tasks so far           
-⏳  Longest streak is 10 days
+✅  Completed 6 tasks so far           
+⏳  Longest streak is 20 days
 <!-- TODO-IST:END -->
 
 
