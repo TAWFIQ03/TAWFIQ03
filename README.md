@@ -8,7 +8,9 @@
 <a href="https://www.linkedin.com/in/tawfiq-aharmim-3b16781a0/">
   <img align="left" alt="tawfiq's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<a href="https://www.instagram.com/tawfiq.officiel?r=nametag">
+  <img align="left" alt="tawfiq's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=TAWFIQ03.TAWFIQ03)
 
