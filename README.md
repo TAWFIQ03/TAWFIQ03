@@ -12,5 +12,5 @@
 I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, Node.js, ReactJS, php, mysql, wordpress, ajax.js, JSON and UI/UX.
 
 
-
+- i'm a software **developer**
 - 💬 Ask me about **ReactJs and Frontend**
