@@ -25,7 +25,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@tawfiqaharmim](https://twitter.com/tawfiqaharmim);
-- 📝 [Resume](https://drive.google.com/file/d/1MawYuAvPpcGOxp1vTohaPrKGOqKV2yXi/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1ZBN9YOQmRS8hKG5gnPRtGrgJ8anHpBaA/view)
 
 **Languages and Tools:**  
 
